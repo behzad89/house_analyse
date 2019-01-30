@@ -1,2 +1,2 @@
-# house_analyse
+# house analyse
 Using linear regression for modeling the house prices in king county
