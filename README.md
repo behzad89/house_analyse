@@ -15,3 +15,6 @@ In order to run this container you'll need docker installed.
 * [Windows](https://docs.docker.com/windows/started)
 * [OS X](https://docs.docker.com/mac/started/)
 * [Linux](https://docs.docker.com/linux/started/)
+
+
+[ESA's SNAP](http://step.esa.int/main/toolboxes/snap/)
